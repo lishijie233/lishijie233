@@ -1,4 +1,8 @@
-### Hi there 👋
+### Nice to meet you 👋
+I'm a Java developer,
+Welcome to my blog, I hope to share my growth and happiness with you.  
+### About my repo 💬 
+- [10094: Tech blog](https://github.com/lishijie233/10094)  
 
 <!--
 **lishijie233/lishijie233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
