@@ -1,6 +1,9 @@
 ### Nice to meet you 👋
 I'm a Java developer,
 Welcome to my blog, I hope to share my growth and happiness with you.  
+### Motto
+Talk is cheap, show me the code.  
+                  --linus
 ### About my repo 💬 
 - [10094: Tech blog](https://github.com/lishijie233/10094)  
 
