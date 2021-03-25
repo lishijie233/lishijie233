@@ -1,7 +1,7 @@
 ### Nice to meet you 👋
 I'm a Java developer,
 Welcome to my blog, I hope to share my growth and happiness with you.  
-### Motto
+### Motto 😄
 Talk is cheap, show me the code.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
